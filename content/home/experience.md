@@ -35,18 +35,17 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "NLP"
-  company = "Institute of Gerontech Lab of HFUT"
+  company = "Institute of Affective Computing of HFUT"
   company_url = ""
   location = "Hefei, China"
-  date_start = "2019-08-01"
+  date_start = "2019-05-01"
   date_end = ""
-  description = """Extracting causal relations form literature for causal graph construction"""
+  description = """
   Responsibilities include:
   
   
-  * Data Preprocessing
-  * Syntactic Pattern Matching based on Stanford CoreNLP
-  * The Construction of the Neural Network
-
+  * Person Pose Estimation based on Google Geometric Embedding Model
+  * Visualization
+  * Data Collection
   """
 +++
