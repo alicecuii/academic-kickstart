@@ -27,9 +27,8 @@ interests:
 
 education:
   courses:
-  - course: BSc in Computer Science
+  - course: BSc in Computer Science(Expected Graduation: June,2021) 
     institution: Hefei University of Technology
-  - Expected Graduation: June,2021
     
 
 # Social/Academic Networking
