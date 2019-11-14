@@ -18,41 +18,47 @@ subtitle = ""
  # icon = "r-project"
   #icon_pack = "fab"
   name = "Python"
-  #description = "90%"
+  description = "Proficient"
   
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
   name = "C/C++"
-  #description = "100%"  
+  description = "Proficient" 
+ 
+[[feature]]
+  #icon = "chart-line"
+  #icon_pack = "fas"
+  name = "Java"
+  description = "Experience" 
 
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
   name = "PHP"
-  #description = "100%" 
+  description = "Experience" 
 [[feature]]
   #icon = "camera-retro"
   #icon_pack = "fas"
-  name = "HTML"
-  #description = "10%"
+  name = "HTML/CSS"
+  description = "Experience"
  
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
   name = "JavaScript"
-  #description = "100%"  
+  description = "Experience"  
 
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
   name = "Verilog"
-  #description = "100%"  
+  description = "Experience"  
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
   name = "Assembly"
-  #description = "100%" 
+  description = "Experience" 
 
 
 +++
