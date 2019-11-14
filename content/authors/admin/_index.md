@@ -27,7 +27,8 @@ grades:
 education:
   courses:
   - course: BSc in Computer Science
-    institution: Hefei University of Technology, Expected Graduation:June, 2021
+    institution: Hefei University of Technology
+                 Expected Graduation:June, 2021
     
 
 # Social/Academic Networking
