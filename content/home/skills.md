@@ -15,27 +15,44 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+ # icon = "r-project"
+  #icon_pack = "fab"
+  name = "Python"
+  #description = "90%"
   
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
-  name = "Python"
-  description = "100%"  
+  name = "C/C++"
+  #description = "100%"  
+
+[[feature]]
+  #icon = "chart-line"
+  #icon_pack = "fas"
+  name = "PHP"
+  #description = "100%" 
+[[feature]]
+  #icon = "camera-retro"
+  #icon_pack = "fas"
+  name = "HTML"
+  #description = "10%"
+ 
+[[feature]]
+  #icon = "chart-line"
+  #icon_pack = "fas"
+  name = "JavaScript"
+  #description = "100%"  
+
+[[feature]]
+  #icon = "chart-line"
+  #icon_pack = "fas"
+  name = "Verilog"
+  #description = "100%"  
+[[feature]]
+  #icon = "chart-line"
+  #icon_pack = "fas"
+  name = "Assembly"
+  #description = "100%" 
+
 
 +++
