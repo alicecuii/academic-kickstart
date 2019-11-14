@@ -40,14 +40,8 @@ subtitle = ""
 [[feature]]
   #icon = "camera-retro"
   #icon_pack = "fas"
-  name = "HTML/CSS"
-  description = "Experience"
- 
-[[feature]]
-  #icon = "chart-line"
-  #icon_pack = "fas"
-  name = "JavaScript"
-  description = "Experience"  
+  name = "HTML/CSS/JavaScript"
+  description = "Experience" 
 
 [[feature]]
   #icon = "chart-line"
