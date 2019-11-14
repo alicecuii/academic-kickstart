@@ -16,29 +16,35 @@ date_format = "Jan 2006"
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+#   Begin/end multi-line deIscriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Intelligent Sports Training System based on AR"
+  company = "Institute of Affective Computing of HFUT"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Hefei, China"
+  date_start = "2019-05-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  
+  * Person Pose Estimation based on Google Geometric Embedding Model
+  * Visualization
+  * Data Collection
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "NLP"
+  company = "Institute of Gerontech Lab of HFUT"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Hefei, China"
+  date_start = "2019-08-01"
+  date_end = ""
+  description = """Efficient approach to extracting causal relations form literature for causal graph construction"""
+   Responsibilities include:
+  
+  
+  * Data Preprocessing
+  * Syntactic Pattern Matching based on Stanford CoreNLP
+  * The Construction of the Neural Network
 +++
