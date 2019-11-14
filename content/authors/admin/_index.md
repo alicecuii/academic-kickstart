@@ -21,12 +21,8 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 Interests:
-  courses:
-  - GPA: 3.81/4.3
-  - Grades: 89.7/100
-  - Ranking: 6/148; top 4%
-  - TOEFL: 100
-  - GRE: 323 (Quantitative 169，Verbal 154，Writing 4.0)
+      -
+   - GPA: 3.81/4.3
 
 education:
   courses:
