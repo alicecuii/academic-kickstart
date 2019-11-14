@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   location = "Hefei, China"
   date_start = "2019-08-01"
   date_end = ""
-  description = """Efficient approach to extracting causal relations form literature for causal graph construction"""
-   Responsibilities include:
+  description = """Extracting causal relations form literature for causal graph construction"""
+  Responsibilities include:
   
   
   * Data Preprocessing
