@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Hefei, China"
   date_start = "2019-08-01"
   date_end = ""
-  description = """Extracting causal relations form literature for causal graph construction"""
+  #description = """Extracting causal relations form literature for causal graph construction"""
   Responsibilities include:
   
   
