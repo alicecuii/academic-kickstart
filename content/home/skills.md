@@ -30,24 +30,28 @@ subtitle = ""
   #icon = "chart-line"
   #icon_pack = "fas"
   name = "Java"
-  description = "Experience" 
+  description = "Experienced" 
 
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
   name = "PHP"
-  description = "Experience" 
+  description = "Experienced" 
 [[feature]]
   #icon = "camera-retro"
   #icon_pack = "fas"
   name = "HTML/CSS/JavaScript"
-  description = "Experience" 
+  description = "Experienced" 
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
   name = "C"
-  description = "Experience" 
-
+  description = "Experienced" 
+[[feature]]
+  #icon = "camera-retro"
+  #icon_pack = "fas"
+  name = "SQL"
+  description = "Experienced" 
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
