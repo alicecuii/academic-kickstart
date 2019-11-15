@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Extracting causal relations form literature for causal graph construction"
+  title = "Extracting causal relations from literature for causal graph construction"
   company = "Institute of Gerontech Lab of HFUT"
   company_url = ""
   location = "Hefei, China"
