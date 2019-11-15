@@ -56,12 +56,12 @@ subtitle = ""
   #icon = "chart-line"
   #icon_pack = "fas"
   name = "Verilog"
-  description = "Experience"  
+  description = "Experienced"  
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
   name = "Assembly"
-  description = "Experience" 
+  description = "Experienced" 
 
 
 +++
