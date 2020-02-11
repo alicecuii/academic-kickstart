@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
-  name = "C++"
+  name = "Java"
   description = "Proficient" 
  
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
-  name = "Java"
+  name = "C++"
   description = "Experienced" 
 
 [[feature]]
