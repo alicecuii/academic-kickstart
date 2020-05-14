@@ -17,13 +17,13 @@ subtitle = ""
 [[feature]]
  # icon = "r-project"
   #icon_pack = "fab"
-  name = "Python"
+  name = "Java"
   description = "Proficient"
   
 [[feature]]
   #icon = "chart-line"
   #icon_pack = "fas"
-  name = "Java"
+  name = "Python"
   description = "Proficient" 
  
 [[feature]]
@@ -31,37 +31,12 @@ subtitle = ""
   #icon_pack = "fas"
   name = "C++"
   description = "Experienced" 
-
-[[feature]]
-  #icon = "chart-line"
-  #icon_pack = "fas"
-  name = "PHP"
-  description = "Experienced" 
-[[feature]]
-  #icon = "camera-retro"
-  #icon_pack = "fas"
-  name = "HTML/CSS/JavaScript"
-  description = "Experienced" 
-[[feature]]
-  #icon = "chart-line"
-  #icon_pack = "fas"
-  name = "C"
-  description = "Experienced" 
 [[feature]]
   #icon = "camera-retro"
   #icon_pack = "fas"
   name = "SQL"
   description = "Experienced" 
-[[feature]]
-  #icon = "chart-line"
-  #icon_pack = "fas"
-  name = "Verilog"
-  description = "Experienced"  
-[[feature]]
-  #icon = "chart-line"
-  #icon_pack = "fas"
-  name = "Assembly"
-  description = "Experienced" 
+
 
 
 +++
