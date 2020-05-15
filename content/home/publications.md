@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+Kun Cheng, Xiaoxuan Cui, Siyi Guo and Jiaoyun Yang. 2020. Semi-automatic causal graph construction system. In Proceedings of 2020 3rd International Conference on Computer Science and Software Engineering(CSSE’20). Bei’jing, China, 6pages. https://doi.org/10.1145/1234567890
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
